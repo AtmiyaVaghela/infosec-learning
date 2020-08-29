@@ -1,0 +1,8 @@
+* Install python-nmap
+
+http://xael.org/norman/python/python-nmap/
+
+tar xvzf python-nmap-0.4.1.tar.gz 
+cd python-nmap-0.4.1/
+python3 setup.py install
+sudo python3 setup.py install
